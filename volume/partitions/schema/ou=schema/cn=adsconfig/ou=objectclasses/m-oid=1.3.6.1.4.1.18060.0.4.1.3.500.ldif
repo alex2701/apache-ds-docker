@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.500,ou=objectClasses,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.932000Z#000001#000#000000
+m-supobjectclass: ads-dsBasedServer
+m-description: The DnsServer ObjectClass
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.500
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20180425221426.264Z
+m-name: ads-dnsServer
+creatorsname: uid=admin,ou=system
+entryUUID: 26860796-0919-4b45-ae8f-69a5090c9f5e
+entryParentId: a8bf1573-0364-4fd8-995b-e94aee8c8168

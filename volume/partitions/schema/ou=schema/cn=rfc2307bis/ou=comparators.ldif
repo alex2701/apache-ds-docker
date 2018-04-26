@@ -1,0 +1,10 @@
+version: 1
+dn: ou=comparators,cn=rfc2307bis,ou=schema
+entryCSN: 20180425221424.626000Z#000001#000#000000
+ou: comparators
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.151Z
+creatorsname: uid=admin,ou=system
+entryUUID: ab6cf091-eadb-4343-a9b8-04742a99f45f
+entryParentId: ded84585-c9c5-4035-92ab-fa488f386964

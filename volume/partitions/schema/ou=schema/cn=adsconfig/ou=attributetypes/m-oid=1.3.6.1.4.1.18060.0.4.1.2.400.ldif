@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.400,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.872000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: d8576516-0af3-4560-95c8-2f1caec8e4d6
+m-equality: integerMatch
+m-description: The allowable clock skew
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.400
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.403Z
+m-name: ads-krbAllowableClockSkew
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

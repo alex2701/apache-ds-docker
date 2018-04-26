@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.5.4.41,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20180425221425.018000Z#000002#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: 9e5ab8e1-4d3d-4c1e-842d-baa4a6a4f24f
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: RFC2256: common supertype of name attributes
+m-obsolete: FALSE
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 2.5.4.41
+createTimestamp: 20180425221426.479Z
+m-name: name
+entryParentId: f09b3982-2124-45b3-8de3-b94a2d930cca

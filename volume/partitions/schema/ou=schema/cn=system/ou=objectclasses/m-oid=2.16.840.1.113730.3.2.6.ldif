@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=2.16.840.1.113730.3.2.6,ou=objectClasses,cn=system,ou=schema
+entryCSN: 20180425221425.092000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: e481b2c0-4be3-4612-ae0e-c70053dd971f
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: ref
+m-description: namedref: named subordinate referral
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113730.3.2.6
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.236Z
+m-name: referral
+entryParentId: b8281124-8075-49b7-b7e6-62876f68e645

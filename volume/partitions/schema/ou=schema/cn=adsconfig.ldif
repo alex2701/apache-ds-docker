@@ -1,0 +1,13 @@
+version: 1
+dn: cn=adsconfig,ou=schema
+entryCSN: 20180425221424.413000Z#000000#000#000000
+cn: adsconfig
+objectclass: metaSchema
+objectclass: top
+createTimestamp: 20180425221426.263Z
+m-dependencies: apache
+m-dependencies: system
+m-dependencies: core
+creatorsname: uid=admin,ou=system
+entryUUID: 5c24378e-9433-463d-9905-d4e21a89cd84
+entryParentId: 04445346-3d77-401f-a74d-0066dc437995

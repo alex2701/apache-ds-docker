@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.301,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.898000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: db0d38f3-a243-4cf1-b969-21d93a97c311
+m-equality: booleanMatch
+m-description: Tells the server to accept Anynymous requests or not
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.301
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.386Z
+m-name: ads-allowAnonymousAccess
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

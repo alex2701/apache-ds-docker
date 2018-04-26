@@ -1,0 +1,15 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.804,ou=objectClasses,cn=adsconfig,ou=schema
+m-may: ads-httpConfFile
+entryCSN: 20180425221424.928000Z#000000#000#000000
+m-supobjectclass: ads-server
+m-description: integrated jetty http server
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.804
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20180425221426.421Z
+m-name: ads-httpServer
+creatorsname: uid=admin,ou=system
+entryUUID: 4ed60678-79db-44ae-9aaf-3c533acaf3db
+entryParentId: a8bf1573-0364-4fd8-995b-e94aee8c8168

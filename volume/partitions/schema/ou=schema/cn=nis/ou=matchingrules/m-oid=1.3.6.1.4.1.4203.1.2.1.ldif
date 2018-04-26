@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.4203.1.2.1,ou=matchingRules,cn=nis,ou=schema
+entryCSN: 20180425221424.709000Z#000001#000#000000
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.4203.1.2.1
+objectclass: metaMatchingRule
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.408Z
+m-name: caseExactIA5SubstringsMatch
+creatorsname: uid=admin,ou=system
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+entryUUID: 9f19a061-826b-4462-b8b7-d237a1f8d2ad
+entryParentId: 6ecabf8f-47ea-4f25-aea0-fcde730c8043

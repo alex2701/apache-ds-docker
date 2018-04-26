@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=2.5.6.2,ou=objectClasses,cn=core,ou=schema
+entryCSN: 20180425221424.615000Z#000002#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 7590caa7-b0df-4e0b-b3f2-5973ab023012
+m-may: searchGuide
+m-may: description
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: c
+m-description: RFC2256: a country
+m-obsolete: FALSE
+m-oid: 2.5.6.2
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.426Z
+m-name: country
+entryParentId: 1d12d865-ee52-4607-a3fb-ae306ccc05c3

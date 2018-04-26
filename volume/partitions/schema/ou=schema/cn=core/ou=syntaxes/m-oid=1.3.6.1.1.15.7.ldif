@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=1.3.6.1.1.15.7,ou=syntaxes,cn=core,ou=schema
+entrycsn: 20100111202214.878000Z#000000#000#000000
+m-description: X.509 Algorithm Identifier
+m-obsolete: FALSE
+createtimestamp: 20100111145217Z
+m-oid: 1.3.6.1.1.15.7
+objectclass: top
+objectclass: metaTop
+objectclass: metaSyntax
+creatorsname: uid=admin,ou=system
+x-not-human-readable: FALSE
+entryUUID: 5f320686-6ac0-490f-a37f-32262aec060d
+entryParentId: 2bb84c45-b85a-438c-8ef3-746dd42a5276

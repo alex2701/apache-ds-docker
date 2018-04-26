@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.0.3.4,ou=objectClasses,cn=apachemeta,ou=schema
+entryCSN: 20180425221424.496000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: f8687beb-de9c-4563-be5b-8ecb271a9955
+m-may: x-not-human-readable
+m-may: m-obsolete
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: metaTop
+m-description: meta definition of the Syntax object
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.0.3.4
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20180425221426.399Z
+m-name: metaSyntax
+entryParentId: 642b57e5-b642-4190-b5a9-2c984e8a22ad

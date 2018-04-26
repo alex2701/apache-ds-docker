@@ -1,0 +1,10 @@
+version: 1
+dn: ou=matchingRuleUse,cn=samba,ou=schema
+entryCSN: 20180425221424.972000Z#000001#000#000000
+ou: matchingruleuse
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.447Z
+creatorsname: uid=admin,ou=system
+entryUUID: d772791b-5621-4206-96b5-90934db397e4
+entryParentId: 15c6c38d-066a-4060-abaa-98b22281cba9

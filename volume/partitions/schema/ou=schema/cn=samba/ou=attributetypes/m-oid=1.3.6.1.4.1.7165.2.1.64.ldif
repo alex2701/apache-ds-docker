@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.64,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20180425221424.975000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: d1952830-e3b6-4da4-be47-561717a071d3
+m-equality: integerMatch
+m-description: Reset time after lockout in minutes (default: 30)
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.64
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20180425221426.032Z
+m-name: sambaLockoutObservationWindow
+entryParentId: 2fd294a6-7de9-4a57-8f46-dc826acdf0bd

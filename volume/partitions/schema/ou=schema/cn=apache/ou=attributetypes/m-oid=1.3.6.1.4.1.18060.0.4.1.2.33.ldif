@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.33,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20180425221424.815000Z#000001#000#000000
+m-usage: DIRECTORY_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: 70990a1e-b948-45f4-ad10-66e9b8296571
+m-equality: caseIgnoreMatch
+m-description: A multivalued normalizer description attribute
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.33
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.015Z
+m-name: normalizers
+entryParentId: 69c9cff2-8238-4421-aac0-d855f38c1fbf

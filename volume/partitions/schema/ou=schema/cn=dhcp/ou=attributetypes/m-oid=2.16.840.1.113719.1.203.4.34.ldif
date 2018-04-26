@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.4.34,ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20180425221424.655000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.40
+m-singlevalue: TRUE
+entryUUID: fb62dce7-9252-43b8-adb7-f5b1603aae46
+m-equality: caseIgnoreIA5Match
+m-description: The clients hardware address that requested this IP address.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.4.34
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.126Z
+m-name: dhcpHWAddress
+entryParentId: 6a07331c-4a24-4c5e-ad77-1ab98ffd3406

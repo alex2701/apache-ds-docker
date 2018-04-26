@@ -1,0 +1,10 @@
+version: 1
+dn: ou=normalizers,cn=apache,ou=schema
+entryCSN: 20180425221424.795000Z#000001#000#000000
+ou: normalizers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.021Z
+creatorsname: uid=admin,ou=system
+entryUUID: a57b8adc-6e7b-4e5c-8301-1e03f9d1a4b4
+entryParentId: 5721f47e-fcf5-438a-b5fa-bbe8454984a5

@@ -1,0 +1,11 @@
+version: 1
+dn: cn=core,ou=schema
+entryCSN: 20180425221424.408000Z#000001#000#000000
+cn: core
+objectclass: metaSchema
+objectclass: top
+createTimestamp: 20180425221426.412Z
+m-dependencies: system
+creatorsname: uid=admin,ou=system
+entryUUID: beacbd17-8232-4f49-9f97-7f7c552e3afb
+entryParentId: 04445346-3d77-401f-a74d-0066dc437995

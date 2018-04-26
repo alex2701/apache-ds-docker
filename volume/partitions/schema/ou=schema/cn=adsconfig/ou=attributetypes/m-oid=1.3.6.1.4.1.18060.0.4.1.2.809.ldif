@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.809,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.875000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 786100ad-9867-45e8-bab2-4f251e7dac44
+m-substr: caseExactSubstringsMatch
+m-equality: caseExactMatch
+m-description: Fully qualified class name of SASL NTLM provider
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.809
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.200Z
+m-name: ads-ntlmMechProvider
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

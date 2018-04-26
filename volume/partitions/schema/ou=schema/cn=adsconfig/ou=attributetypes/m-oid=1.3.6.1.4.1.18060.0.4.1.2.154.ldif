@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.154,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.870000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 7f138667-5bfc-4cf0-a140-5d3880e3726a
+m-substr: caseExactSubstringsMatch
+m-equality: caseExactMatch
+m-description: The Partition context entry
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.154
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20180425221426.301Z
+m-name: ads-contextEntry
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

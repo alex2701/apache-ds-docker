@@ -1,0 +1,10 @@
+version: 1
+dn: ou=objectClasses,cn=apache,ou=schema
+entryCSN: 20180425221424.794000Z#000002#000#000000
+ou: objectclasses
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.419Z
+creatorsname: uid=admin,ou=system
+entryUUID: fdb99270-36f3-423c-8bb2-2d27cc7008fd
+entryParentId: 5721f47e-fcf5-438a-b5fa-bbe8454984a5

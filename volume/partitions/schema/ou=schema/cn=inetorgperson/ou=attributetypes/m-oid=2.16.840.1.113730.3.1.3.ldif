@@ -1,0 +1,22 @@
+version: 1
+dn: m-oid=2.16.840.1.113730.3.1.3,ou=attributeTypes,cn=inetorgperson,ou=schema
+entryCSN: 20180425221424.729000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: TRUE
+entryUUID: 80e7818c-22b1-481e-b268-17da3c6b9920
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: RFC2798: numerically identifies an employee within an organizatio
+ n
+m-obsolete: FALSE
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 2.16.840.1.113730.3.1.3
+createTimestamp: 20180425221426.007Z
+m-name: employeeNumber
+entryParentId: c2361458-48dd-47f3-a799-21360bcc455b

@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.2.9,ou=objectClasses,cn=samba,ou=schema
+entryCSN: 20180425221424.997000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: e0f7e803-8f08-4ef5-b078-cf02a75262fa
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: sambaSID
+m-description: Structural Class for a SID
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.2.9
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20180425221426.002Z
+m-name: sambaSidEntry
+entryParentId: 657982aa-c6bf-405e-82a7-88a8ac48843b

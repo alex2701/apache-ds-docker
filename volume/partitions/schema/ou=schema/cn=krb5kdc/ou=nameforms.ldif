@@ -1,0 +1,10 @@
+version: 1
+dn: ou=nameForms,cn=krb5kdc,ou=schema
+entryCSN: 20180425221424.517000Z#000001#000#000000
+ou: nameforms
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.434Z
+creatorsname: uid=admin,ou=system
+entryUUID: 8a06dc8e-631b-433c-930e-a5c5430cdf96
+entryParentId: ae7655ba-1f6d-48f4-9a85-dc27c1485a62

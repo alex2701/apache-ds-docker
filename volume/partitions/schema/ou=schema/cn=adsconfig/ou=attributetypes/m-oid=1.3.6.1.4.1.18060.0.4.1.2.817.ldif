@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.817,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.889000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+m-ordering: caseIgnoreOrderingMatch
+entryUUID: 1cdd7ac7-b3c4-45ae-85ad-14793874bc55
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreIA5Match
+m-description: Search filter used in replication
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.817
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.240Z
+m-name: ads-replSearchFilter
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

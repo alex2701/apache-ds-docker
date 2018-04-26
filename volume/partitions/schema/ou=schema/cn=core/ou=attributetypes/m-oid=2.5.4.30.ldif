@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.4.30,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20180425221424.595000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.38
+m-singlevalue: FALSE
+entryUUID: e0c471aa-8c28-4027-8657-125a9db98e83
+m-equality: objectIdentifierMatch
+m-description: RFC2256: supported application context
+m-obsolete: FALSE
+m-oid: 2.5.4.30
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.318Z
+m-name: supportedApplicationContext
+entryParentId: ebdab4e3-48d1-4e19-babe-98c79e05c056

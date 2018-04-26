@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.250.1.57,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20180425221425.006000Z#000002#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: edd227cd-e800-48b0-b011-411e5220b996
+m-equality: caseExactMatch
+m-description: RFC2079: Uniform Resource Identifier with optional label
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.250.1.57
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.341Z
+m-name: labeledURI
+entryParentId: f09b3982-2124-45b3-8de3-b94a2d930cca

@@ -1,0 +1,14 @@
+dn: ads-saslMechName=CRAM-MD5,ou=saslMechHandlers,ads-serverId=ldapServer,ou=ser
+ vers,ads-directoryServiceId=default,ou=config
+ads-saslmechname: CRAM-MD5
+entryCSN: 20180425221424.183000Z#000000#000#000000
+ads-saslmechclassname: org.apache.directory.server.ldap.handlers.sasl.cramMD5.Cr
+ amMd5MechanismHandler
+objectclass: ads-saslMechHandler
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20180425221424.183Z
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: aaf6bd84-7efd-4f34-83df-bd920d690f22
+entryParentId: f2e4cc55-f45f-46ec-89d5-ba1f0b6d35a9

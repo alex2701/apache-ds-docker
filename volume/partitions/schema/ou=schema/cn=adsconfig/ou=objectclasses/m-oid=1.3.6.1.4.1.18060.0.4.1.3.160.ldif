@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.160,ou=objectClasses,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.937000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 448f69b0-51c6-45b9-be0b-9e13a7aa508e
+m-typeobjectclass: ABSTRACT
+m-supobjectclass: ads-base
+m-must: ads-indexAttributeId
+m-must: ads-indexHasReverse
+m-description: A generic indexed attribute
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.160
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20180425221426.094Z
+m-name: ads-index
+entryParentId: a8bf1573-0364-4fd8-995b-e94aee8c8168

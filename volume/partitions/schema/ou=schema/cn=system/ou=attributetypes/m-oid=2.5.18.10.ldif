@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.18.10,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20180425221425.005000Z#000000#000#000000
+m-usage: DIRECTORY_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: TRUE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: TRUE
+entryUUID: 2b3dd59b-8185-43a3-98d0-b39a9b9e12f3
+m-equality: distinguishedNameMatch
+m-description: RFC2252: name of controlling subschema entry
+m-obsolete: FALSE
+m-oid: 2.5.18.10
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.008Z
+m-name: subschemaSubentry
+entryParentId: f09b3982-2124-45b3-8de3-b94a2d930cca

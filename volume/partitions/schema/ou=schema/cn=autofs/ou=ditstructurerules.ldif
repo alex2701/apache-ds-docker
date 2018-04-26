@@ -1,0 +1,10 @@
+version: 1
+dn: ou=ditStructureRules,cn=autofs,ou=schema
+entryCSN: 20180425221424.722000Z#000001#000#000000
+ou: ditstructurerules
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.072Z
+creatorsname: uid=admin,ou=system
+entryUUID: 899cb446-976c-4f25-b008-a3f4f560d131
+entryParentId: e1da1d02-43ba-4e81-b300-6d4645578090

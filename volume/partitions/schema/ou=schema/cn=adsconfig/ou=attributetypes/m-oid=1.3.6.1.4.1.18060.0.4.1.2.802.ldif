@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.802,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.900000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: 1245f3b0-7c81-48d5-aa07-fcd6816d363b
+m-equality: integerMatch
+m-description: The policy token size
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.802
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.009Z
+m-name: ads-chgPwdPolicyTokenSize
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

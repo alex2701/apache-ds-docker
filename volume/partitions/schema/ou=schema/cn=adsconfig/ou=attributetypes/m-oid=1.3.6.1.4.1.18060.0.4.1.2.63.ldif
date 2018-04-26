@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.63,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.867000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: 2e40d69e-c3ea-4163-b117-ebe122cfcbbc
+m-equality: booleanMatch
+m-description: Tells if this transport support SSL.
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.63
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.293Z
+m-name: ads-transportEnableSSL
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

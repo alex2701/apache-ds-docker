@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.64,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.868000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: 0f265230-080c-4b35-9118-2ee023e3fe50
+m-equality: integerMatch
+m-description: The number of threads to use for the Acceptor
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.64
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.411Z
+m-name: ads-transportNbThreads
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

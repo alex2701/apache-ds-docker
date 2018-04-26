@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.304,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.865000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 6eecf7af-7da4-40b2-9873-9a3ee5b800e6
+m-substr: caseExactSubstringsMatch
+m-equality: caseExactMatch
+m-description: The name of this host, validated during SASL negotiation
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.304
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.153Z
+m-name: ads-saslHost
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

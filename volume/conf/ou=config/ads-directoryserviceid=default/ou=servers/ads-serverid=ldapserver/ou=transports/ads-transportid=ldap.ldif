@@ -1,0 +1,16 @@
+dn: ads-transportid=ldap,ou=transports,ads-serverId=ldapServer,ou=servers,ads-di
+ rectoryServiceId=default,ou=config
+entryCSN: 20180425221424.174000Z#000001#000#000000
+ads-transportid: ldap
+objectclass: ads-transport
+objectclass: ads-tcpTransport
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20180425221424.175Z
+ads-systemport: 10389
+ads-transportaddress: 0.0.0.0
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: 3ae6a6d5-e0b3-400b-9438-a086305e2ff3
+ads-transportnbthreads: 8
+entryParentId: 3c385720-e2ae-4b33-978f-aa1867d47274

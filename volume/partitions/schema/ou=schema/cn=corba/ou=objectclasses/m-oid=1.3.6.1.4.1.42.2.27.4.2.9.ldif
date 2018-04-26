@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.42.2.27.4.2.9,ou=objectClasses,cn=corba,ou=schema
+entryCSN: 20180425221424.566000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: d0609d19-e5e7-4e2a-a44f-b8d573afac86
+m-may: corbaRepositoryId
+m-may: description
+m-typeobjectclass: ABSTRACT
+m-supobjectclass: top
+m-description: CORBA object representation
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.42.2.27.4.2.9
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.519Z
+m-name: corbaObject
+entryParentId: 7a775ed9-b9b3-4874-9b31-975e874aa661

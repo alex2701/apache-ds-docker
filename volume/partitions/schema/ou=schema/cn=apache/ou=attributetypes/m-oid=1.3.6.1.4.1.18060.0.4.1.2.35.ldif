@@ -1,0 +1,22 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.35,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20180425221424.813000Z#000000#000#000000
+m-usage: DIRECTORY_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.24
+m-singlevalue: FALSE
+m-ordering: generalizedTimeOrderingMatch
+entryUUID: 1c0ed91d-4289-4184-98c0-cbc208308915
+m-supattributetype: modifyTimestamp
+m-equality: generalizedTimeMatch
+m-description: time which schema was modified
+m-obsolete: FALSE
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.35
+createTimestamp: 20180425221426.293Z
+m-name: schemaModifyTimestamp
+entryParentId: 69c9cff2-8238-4421-aac0-d855f38c1fbf

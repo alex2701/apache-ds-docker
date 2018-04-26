@@ -1,0 +1,14 @@
+dn: ads-extendedOpId=storedprochandler,ou=extendedOpHandlers,ads-serverId=ldapSe
+ rver,ou=servers,ads-directoryServiceId=default,ou=config
+ads-extendedopid: storedprochandler
+entryCSN: 20180425221424.179000Z#000000#000#000000
+objectclass: ads-extendedOpHandler
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20180425221424.179Z
+creatorsName: uid=admin,ou=system
+ads-extendedophandlerclass: org.apache.directory.server.ldap.handlers.extended.S
+ toredProcedureExtendedOperationHandler
+ads-enabled: FALSE
+entryUUID: 6147cdc6-b223-459b-ab73-581ee6ef9197
+entryParentId: fb5e3536-2792-47a3-9dcc-d37ecfcec66d

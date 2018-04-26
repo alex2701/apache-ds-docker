@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.803,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.869000Z#000002#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 7d420546-563a-4cb5-a4d6-19c32c40aabd
+m-substr: caseExactSubstringsMatch
+m-equality: caseExactMatch
+m-description: The Change Password service principal
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.803
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221425.967Z
+m-name: ads-chgPwdServicePrincipal
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

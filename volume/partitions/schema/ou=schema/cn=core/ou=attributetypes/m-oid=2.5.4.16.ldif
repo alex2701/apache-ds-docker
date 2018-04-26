@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.5.4.16,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20180425221424.602000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.41
+m-singlevalue: FALSE
+entryUUID: ab8b4be0-3ee0-4a28-b480-28cfd2fdcb8b
+m-substr: caseIgnoreListSubstringsMatch
+m-equality: caseIgnoreListMatch
+m-description: RFC2256: postal address
+m-obsolete: FALSE
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 2.5.4.16
+createTimestamp: 20180425221426.484Z
+m-name: postalAddress
+entryParentId: ebdab4e3-48d1-4e19-babe-98c79e05c056

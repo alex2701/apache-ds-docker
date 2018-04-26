@@ -1,0 +1,15 @@
+dn: ads-transportid=https,ou=transports,ads-serverId=httpServer,ou=servers,ads-d
+ irectoryServiceId=default,ou=config
+entryCSN: 20180425221424.165000Z#000000#000#000000
+ads-transportid: https
+objectclass: top
+objectclass: ads-base
+objectclass: ads-transport
+objectclass: ads-tcpTransport
+createTimestamp: 20180425221424.165Z
+ads-transportaddress: 0.0.0.0
+ads-systemport: 8443
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: 7dc3792e-56fc-419f-bd78-de1a019e3c17
+entryParentId: bda8b084-6101-42d3-a161-cb6188e7e313

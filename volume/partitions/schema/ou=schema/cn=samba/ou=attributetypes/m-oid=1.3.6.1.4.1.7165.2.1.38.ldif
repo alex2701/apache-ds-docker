@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.38,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20180425221424.978000Z#000002#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: ac022a63-bd3e-493e-950e-7d9b52a5940f
+m-equality: caseIgnoreMatch
+m-description: Windows NT domain to which the user belongs
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.38
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20180425221426.253Z
+m-name: sambaDomainName
+entryParentId: 2fd294a6-7de9-4a57-8f46-dc826acdf0bd

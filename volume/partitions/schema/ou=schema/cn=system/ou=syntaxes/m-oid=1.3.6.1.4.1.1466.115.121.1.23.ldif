@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.1466.115.121.1.23,ou=syntaxes,cn=system,ou=schema
+entrycsn: 20100111202214.878000Z#000000#000#000000
+m-description: Fax
+m-obsolete: FALSE
+createtimestamp: 20100111145217Z
+m-oid: 1.3.6.1.4.1.1466.115.121.1.23
+objectclass: top
+objectclass: metaTop
+objectclass: metaSyntax
+creatorsname: uid=admin,ou=system
+x-not-human-readable: TRUE
+entryUUID: 30ccea9d-c939-44c6-821e-9eac68e1a090
+entryParentId: 2dc1b4e7-183b-4efe-b81a-b34d8e37e1c3

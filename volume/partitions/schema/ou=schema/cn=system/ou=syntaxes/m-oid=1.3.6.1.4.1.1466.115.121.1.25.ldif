@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.1466.115.121.1.25,ou=syntaxes,cn=system,ou=schema
+entrycsn: 20100111202214.878000Z#000000#000#000000
+m-description: Guide
+m-obsolete: FALSE
+createtimestamp: 20100111145217Z
+m-oid: 1.3.6.1.4.1.1466.115.121.1.25
+objectclass: top
+objectclass: metaTop
+objectclass: metaSyntax
+creatorsname: uid=admin,ou=system
+x-not-human-readable: FALSE
+entryUUID: 5b49d2b9-046b-42f5-b2d3-b9e8c4fa6e2b
+entryParentId: 2dc1b4e7-183b-4efe-b81a-b34d8e37e1c3

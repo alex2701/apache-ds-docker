@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.102,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.869000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: 411f49ab-9702-4825-8eb5-e5806a2e5be8
+m-equality: booleanMatch
+m-description: Tells if anonymous access are allowed or not
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.102
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20180425221426.042Z
+m-name: ads-dsAllowAnonymousAccess
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

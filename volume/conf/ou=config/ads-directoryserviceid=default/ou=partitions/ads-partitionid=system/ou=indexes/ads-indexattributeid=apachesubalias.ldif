@@ -1,0 +1,15 @@
+dn: ads-indexAttributeId=apacheSubAlias,ou=indexes,ads-partitionId=system,ou=par
+ titions,ads-directoryServiceId=default,ou=config
+ads-indexhasreverse: FALSE
+entryCSN: 20180425221424.136000Z#000000#000#000000
+objectclass: ads-index
+objectclass: ads-jdbmIndex
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20180425221424.136Z
+creatorsName: uid=admin,ou=system
+ads-indexattributeid: apacheSubAlias
+ads-enabled: TRUE
+entryUUID: 878f0039-3da6-447f-bba7-ff247965e546
+ads-indexcachesize: 100
+entryParentId: da8b86cb-178a-4edc-9751-d3f1657abcd8

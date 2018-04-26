@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.4.15,ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20180425221424.647000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: FALSE
+entryUUID: 6d7abe36-a45f-4f3e-b0ad-35bd75f15726
+m-equality: distinguishedNameMatch
+m-description: The distinguished name(s) client addresses.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.4.15
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.180Z
+m-name: dhcpLeasesDN
+entryParentId: 6a07331c-4a24-4c5e-ad77-1ab98ffd3406

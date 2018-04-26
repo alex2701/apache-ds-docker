@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.4.38,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20180425221424.593000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.9
+m-singlevalue: FALSE
+entryUUID: 6fea5b95-4e45-4aa0-a8bf-44d5525ba3a8
+m-equality: certificateListExactMatch
+m-description: X.509 authority revocation list
+m-obsolete: FALSE
+m-oid: 2.5.4.38
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20180425221426.091Z
+m-name: authorityRevocationList
+entryParentId: ebdab4e3-48d1-4e19-babe-98c79e05c056

@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxCheckers,cn=samba,ou=schema
+entryCSN: 20180425221424.971000Z#000000#000#000000
+ou: syntaxcheckers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.271Z
+creatorsname: uid=admin,ou=system
+entryUUID: 70af3b68-d0ee-45e0-9072-0b3fbed9adde
+entryParentId: 15c6c38d-066a-4060-abaa-98b22281cba9

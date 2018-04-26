@@ -1,0 +1,24 @@
+version: 1
+dn: m-oid=2.5.6.12,ou=objectClasses,cn=core,ou=schema
+entryCSN: 20180425221424.610000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 842ab57d-00cc-4115-81b6-62bc3456c081
+m-may: supportedApplicationContext
+m-may: seeAlso
+m-may: ou
+m-may: o
+m-may: l
+m-may: description
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: presentationAddress
+m-must: cn
+m-description: RFC2256: an application entity
+m-obsolete: FALSE
+m-oid: 2.5.6.12
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.381Z
+m-name: applicationEntity
+entryParentId: 1d12d865-ee52-4607-a3fb-ae306ccc05c3

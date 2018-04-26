@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.32,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20180425221424.990000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: 9253ffd7-7307-4575-920c-a5737d433225
+m-equality: integerMatch
+m-description: Timestamp of when the user will be logged off automatically
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.7165.2.1.32
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20180425221426.373Z
+m-name: sambaKickoffTime
+entryParentId: 2fd294a6-7de9-4a57-8f46-dc826acdf0bd

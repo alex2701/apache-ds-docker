@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.849000Z#000002#000#000000
+ou: syntaxes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.381Z
+creatorsname: uid=admin,ou=system
+entryUUID: ae00a862-a34c-4e65-a199-31fbe9e30fcd
+entryParentId: 5c24378e-9433-463d-9905-d4e21a89cd84

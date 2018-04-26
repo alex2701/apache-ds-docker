@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.406,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.907000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: 8bffc1f0-4c9a-4f32-a05c-163d3a671fc1
+m-equality: booleanMatch
+m-description: Whether proxiable addresses are allowed
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.406
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.505Z
+m-name: ads-krbProxiableAllowed
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

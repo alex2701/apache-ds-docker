@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxes,cn=inetorgperson,ou=schema
+entryCSN: 20180425221424.724000Z#000002#000#000000
+ou: syntaxes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.421Z
+creatorsname: uid=admin,ou=system
+entryUUID: c3c6cfba-1949-491f-82e7-647af12aecad
+entryParentId: 69edc294-46a6-4c7a-b644-99985e7db5a4

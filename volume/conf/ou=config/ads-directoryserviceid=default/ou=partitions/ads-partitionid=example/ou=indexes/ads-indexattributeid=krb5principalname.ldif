@@ -1,0 +1,15 @@
+dn: ads-indexAttributeId=krb5PrincipalName,ou=indexes,ads-partitionId=example,ou
+ =partitions,ads-directoryServiceId=default,ou=config
+ads-indexhasreverse: FALSE
+entryCSN: 20180425221424.153000Z#000000#000#000000
+objectclass: ads-index
+objectclass: ads-jdbmIndex
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20180425221424.153Z
+creatorsName: uid=admin,ou=system
+ads-indexattributeid: krb5PrincipalName
+ads-enabled: TRUE
+entryUUID: dc7bb5fa-779b-43e8-9e43-6e5e3cf194c3
+ads-indexcachesize: 100
+entryParentId: 3e286903-d80f-41c0-80f4-64a769773f30

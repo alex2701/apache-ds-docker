@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.4.49,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20180425221425.006000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: FALSE
+entryUUID: a7eb5044-8e09-4f87-94b4-88ff7b94c292
+m-equality: distinguishedNameMatch
+m-description: RFC2256: common supertype of DN attributes
+m-obsolete: FALSE
+m-oid: 2.5.4.49
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.295Z
+m-name: distinguishedName
+entryParentId: f09b3982-2124-45b3-8de3-b94a2d930cca

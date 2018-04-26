@@ -1,0 +1,23 @@
+version: 1
+dn: m-oid=2.5.4.8,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20180425221424.596000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: dec7ca49-117e-4f19-b956-08d31095a6df
+m-substr: caseIgnoreSubstringsMatch
+m-supattributetype: name
+m-equality: caseIgnoreMatch
+m-description: RFC2256: state or province which this object resides in
+m-obsolete: FALSE
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 2.5.4.8
+createTimestamp: 20180425221426.458Z
+m-name: st
+m-name: stateOrProvinceName
+entryParentId: ebdab4e3-48d1-4e19-babe-98c79e05c056

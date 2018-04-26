@@ -1,0 +1,10 @@
+dn: ou=replConsumers,ads-serverId=ldapServer,ou=servers,ads-directoryServiceId=d
+ efault,ou=config
+entryCSN: 20180425221424.173000Z#000000#000#000000
+ou: replConsumers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221424.173Z
+creatorsName: uid=admin,ou=system
+entryUUID: 15b40982-b183-40d4-ab80-c625af70d936
+entryParentId: 57d75674-7b89-431b-b548-151c2d76e464

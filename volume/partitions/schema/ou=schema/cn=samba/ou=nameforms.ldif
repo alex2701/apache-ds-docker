@@ -1,0 +1,10 @@
+version: 1
+dn: ou=nameForms,cn=samba,ou=schema
+entryCSN: 20180425221424.973000Z#000001#000#000000
+ou: nameforms
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221426.060Z
+creatorsname: uid=admin,ou=system
+entryUUID: 26ba2941-b674-471d-933c-d4c5a0708317
+entryParentId: 15c6c38d-066a-4060-abaa-98b22281cba9

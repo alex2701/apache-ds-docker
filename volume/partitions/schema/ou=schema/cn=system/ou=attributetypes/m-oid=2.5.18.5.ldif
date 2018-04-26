@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.5.18.5,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20180425221425.005000Z#000002#000#000000
+m-usage: DIRECTORY_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.38
+m-singlevalue: FALSE
+entryUUID: da5cc605-faa3-4177-a97c-0b7739d2dc7c
+m-equality: objectIdentifierMatch
+m-description: RFC3672: indicate that the associated administrative area is conc
+ erned withone or more administrative roles
+m-obsolete: FALSE
+m-oid: 2.5.18.5
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.343Z
+m-name: administrativeRole
+entryParentId: f09b3982-2124-45b3-8de3-b94a2d930cca

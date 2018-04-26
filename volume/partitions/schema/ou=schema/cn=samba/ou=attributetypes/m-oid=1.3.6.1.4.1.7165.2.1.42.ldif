@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.7165.2.1.42,ou=attributeTypes,cn=samba,ou=schema
+entryCSN: 20180425221424.987000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: 65545a0b-f229-413f-9048-634892a71492
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: Option Name
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+m-oid: 1.3.6.1.4.1.7165.2.1.42
+createTimestamp: 20180425221426.243Z
+m-name: sambaOptionName
+entryParentId: 2fd294a6-7de9-4a57-8f46-dc826acdf0bd

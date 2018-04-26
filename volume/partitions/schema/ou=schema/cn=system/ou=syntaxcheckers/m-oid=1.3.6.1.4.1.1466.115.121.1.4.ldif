@@ -1,0 +1,13 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.1466.115.121.1.4,ou=syntaxCheckers,cn=system,ou=schema
+entryCSN: 20180425221425.052000Z#000002#000#000000
+m-oid: 1.3.6.1.4.1.1466.115.121.1.4
+objectclass: metaSyntaxChecker
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.317Z
+creatorsname: uid=admin,ou=system
+entryUUID: e1ad9531-414e-490e-90b7-09c34358d745
+m-fqcn: org.apache.directory.api.ldap.model.schema.syntaxCheckers.AudioSyntaxChe
+ cker
+entryParentId: 35c17c82-e79a-4421-ae23-8e347b228be0

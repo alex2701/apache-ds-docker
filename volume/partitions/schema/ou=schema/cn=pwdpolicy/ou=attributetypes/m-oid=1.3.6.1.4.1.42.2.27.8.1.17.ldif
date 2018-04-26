@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.42.2.27.8.1.17,ou=attributeTypes,cn=pwdpolicy,ou=schema
+entryCSN: 20180425221424.548000Z#000000#000#000000
+m-usage: DIRECTORY_OPERATION
+creatorsname: uid=admin,ou=system
+m-nousermodification: TRUE
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.24
+m-singlevalue: TRUE
+m-ordering: generalizedTimeOrderingMatch
+entryUUID: 7367ba26-0d6d-4fcd-84e2-e1430d9ce333
+m-equality: generalizedTimeMatch
+m-description: The time an user account was locked
+m-oid: 1.3.6.1.4.1.42.2.27.8.1.17
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.258Z
+m-name: pwdAccountLockedTime
+entryParentId: 58dc5529-1f43-4d78-9c4f-7a1536418fe8

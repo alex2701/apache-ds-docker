@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=2.5.4.14,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20180425221424.586000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.25
+m-singlevalue: FALSE
+entryUUID: ff1b4773-0faa-40e1-b69c-746776e29ed3
+m-description: RFC2256: search guide, obsoleted by enhancedSearchGuide
+m-obsolete: FALSE
+m-oid: 2.5.4.14
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.371Z
+m-name: searchGuide
+entryParentId: ebdab4e3-48d1-4e19-babe-98c79e05c056

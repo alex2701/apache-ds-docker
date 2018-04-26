@@ -1,0 +1,25 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.2.0,ou=objectClasses,cn=nis,ou=schema
+entryCSN: 20180425221424.701000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 6a6abc91-6321-4b7c-b437-b22f4e089167
+m-may: userPassword
+m-may: loginShell
+m-may: gecos
+m-may: description
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-must: cn
+m-must: uid
+m-must: uidNumber
+m-must: gidNumber
+m-must: homeDirectory
+m-description: Abstraction of an account with POSIX attributes
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.2.0
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221425.986Z
+m-name: posixAccount
+entryParentId: f03c2f96-9c7b-4249-a763-dd064ec5233c

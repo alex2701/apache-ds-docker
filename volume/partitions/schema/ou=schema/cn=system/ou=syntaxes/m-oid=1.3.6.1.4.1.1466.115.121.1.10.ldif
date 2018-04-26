@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.1466.115.121.1.10,ou=syntaxes,cn=system,ou=schema
+entrycsn: 20100111202214.878000Z#000000#000#000000
+m-description: X.509 Certificate Pair
+m-obsolete: FALSE
+createtimestamp: 20100111145217Z
+m-oid: 1.3.6.1.4.1.1466.115.121.1.10
+objectclass: top
+objectclass: metaTop
+objectclass: metaSyntax
+creatorsname: uid=admin,ou=system
+x-not-human-readable: TRUE
+entryUUID: 57902a98-fce7-4564-addf-9cbea6b76c78
+entryParentId: 2dc1b4e7-183b-4efe-b81a-b34d8e37e1c3

@@ -1,0 +1,31 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.6.10,ou=objectClasses,cn=dhcp,ou=schema
+entryCSN: 20180425221424.672000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: a7b12b1d-18ce-4adc-baff-6174c2877ed6
+m-may: dhcpExpirationTime
+m-may: dhcpStartTimeOfState
+m-may: dhcpLastTransactionTime
+m-may: dhcpBootpFlag
+m-may: dhcpDomainName
+m-may: dhcpDnsStatus
+m-may: dhcpRequestedHostName
+m-may: dhcpAssignedHostName
+m-may: dhcpReservedForClient
+m-may: dhcpAssignedToClient
+m-may: dhcpRelayAgentInfo
+m-may: dhcpHWAddress
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-must: dhcpAddressState
+m-description: This class represents an IP Address, which may or may not have be
+ en leased.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.6.10
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.278Z
+m-name: dhcpLeases
+entryParentId: 956c9d47-4b62-4c73-9750-38b5829fa145

@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.161,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20180425221424.862000Z#000002#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 5dd476fd-afc4-41d4-b1d9-5a2236f3e563
+m-substr: caseExactSubstringsMatch
+m-equality: caseExactMatch
+m-description: The index file name
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.161
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20180425221426.093Z
+m-name: ads-indexFileName
+entryParentId: 12f4423a-a18a-4b64-b636-8acb3f650be9

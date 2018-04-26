@@ -1,0 +1,15 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.0.1.4,ou=matchingRules,cn=apachemeta,ou=schema
+entryCSN: 20180425221424.512000Z#000001#000#000000
+m-description: Rule identifier of this DIT structure rule
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.0.1.4
+objectclass: metaMatchingRule
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20180425221426.487Z
+m-name: ruleIdMatch
+creatorsname: uid=admin,ou=system
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+entryUUID: dc419932-0b01-48ba-8512-770212ac0b74
+entryParentId: 9607d08b-fb2a-4195-8fdf-6687777c74aa

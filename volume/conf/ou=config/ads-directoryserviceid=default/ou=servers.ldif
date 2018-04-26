@@ -1,0 +1,9 @@
+dn: ou=servers,ads-directoryServiceId=default,ou=config
+entryCSN: 20180425221424.158000Z#000000#000#000000
+ou: servers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20180425221424.158Z
+creatorsName: uid=admin,ou=system
+entryUUID: f31f7386-c5ac-4a24-bddd-11f88c2b1833
+entryParentId: 1b7b614e-1770-4686-bd82-dd141dfcef09
