@@ -1,7 +1,6 @@
 FROM ubuntu:16.04
 MAINTAINER alex2701
 
-#Install Open JDK 9 Jre
 
 RUN apt-get update \
 && apt-get -y install openjdk-9-jre \
@@ -17,5 +16,3 @@ EXPOSE 10389 10636
 
 CMD /etc/init.d/apacheds-2.0.0-M24-default start \
 && tail -f /dev/null
-
-#docker run  -p 127.0.0.1:10389:10389 -d -v /Users/alex/apacheds/volume:/var/lib/apacheds-2.0.0-M24/default  bf77e7fe1c6a
